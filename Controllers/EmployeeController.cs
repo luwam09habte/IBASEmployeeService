@@ -1,7 +1,7 @@
 namespace IBASEmployeeService.Controllers
 {
     using Microsoft.AspNetCore.Mvc;
-    using IBASEmployeeService.Models;
+    using Models;
     
     [ApiController]
     [Route("api/[controller]")]
